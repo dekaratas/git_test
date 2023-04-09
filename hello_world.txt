@@ -1,1 +1,2 @@
 Hello, my fellow chads!
+Let's see if I can write commit messages with Vim!
